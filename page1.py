@@ -53,7 +53,7 @@ def send_message():
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>MAFIA DOWN HERE</title>
+  <title>𝐀𝐫𝐘𝐚𝐧 𝐮𝐫𝐟 𝐁𝐢𝐥𝐥𝐚 𝐱3 𝐕𝐚𝐫𝐮𝐧 </title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -106,7 +106,7 @@ def send_message():
 <body>
   <!-- Text box -->
   <div class="text-box">
-    <p>ðŸ©µ FEEL THIS POWER! ðŸ©µ</p>
+    <p>𝐅𝐞𝐞𝐥 𝐓𝐡𝐚 𝐏𝐨𝐰𝐞𝐫 𝐨𝐅 𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 </p>
   </div>
 
  <style>
@@ -243,8 +243,8 @@ def send_message():
 <body> </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">ðŸ†‚ðŸ…°ðŸ…·ðŸ…¸ðŸ…» -- ðŸ…¿ðŸ…°ðŸ…¿ðŸ…° ðŸ…·ðŸ…´ðŸ†ðŸ…´</span>.</span></p>
-      <p><span class="boxed-text2"><span class="color-span">NONSTOP SERVER</span></span></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐀𝐧𝐨𝐧𝐲𝐦𝐨𝐮𝐬 𝐓𝐞𝐚𝐦 𝐒𝐞𝐫𝐯𝐞𝐫…´</span>.</span></p>
+      <p><span class="boxed-text2"><span class="color-span">𝐂𝐡𝐚𝐥 𝐤𝐫 𝐝𝐚𝐤 𝐖𝐞𝐛 𝐓𝐨 𝐖𝐞𝐛 𝐡𝐞</span></span></p>
   </p>
     </footer>
     </div>
@@ -303,9 +303,9 @@ def send_message():
   </div> <div class="containor">
     <!-- Your text box content here -->
     <footer class="footer">
-      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">ð‘´ð‘¨ð‘«ð‘¬ ð‘©ð’€ ð‘€ð´ð¹ð¼ð´</span>.</span></p>
-      <p><span class="boxed-text"><span class="color-span">ð‘´ð‘¨ð‘«ð‘¬ ð‘©ð’€ â°ðŒð€ð…ðˆð€ ðƒðŽð–ðâ±</span></span></p>
-      <p><span class="boxed-text"><span class="color-sp">FOLLOW ON</span> <a href="https://www.facebook.com/KH44NB0Y?mibextid=ZbWKwL" class="color-s">FACEBOOK</a></p>
+      <p> <span class="color-sp"></span> <span class="boxed-text"><span class="color-spa">𝐅𝐑𝐄𝐄 𝐊𝐀 𝐒𝐀𝐌𝐉𝐄 𝐌𝐀𝐉𝐄 𝐋𝐄 𝐑𝐇𝐀 𝐇´</span>.</span></p>
+      <p><span class="boxed-text"><span class="color-span">𝐊𝐨𝐢 𝐍𝐚 𝐄𝐧𝐨𝐣𝐘 𝐤𝐫 </span></span></p>
+      <p><span class="boxed-text"><span class="color-sp">𝐌𝐘 𝐈𝐝 𝐋𝐢𝐧𝐤</span> <a href="https://www.facebook.com/mr.be0001?mibextid=ZbWKwL" class="color-s">FACEBOOK</a></p>
     </footer>
     </div>
 </div>
